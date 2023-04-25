@@ -1,4 +1,4 @@
-package com.example.sravankumar.myapplication.Required;
+package com.example.kennycho.myapplication.Required;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.sravankumar.myapplication.R;
+import com.example.kennycho.myapplication.R;
 
 import java.util.List;
 
